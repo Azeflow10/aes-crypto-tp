@@ -10,7 +10,6 @@ aes-crypto-tp/
 ├── aes_cbc.py          ← chiffrement AES mode CBC
 ├── aes_cfb.py          ← chiffrement AES mode CFB
 ├── main.py             ← point d'entrée, lance les deux démos
-├── requirements.txt    ← dépendances du projet
 ├── .gitignore          ← fichiers à exclure de Git
 └── README.md           ← ce fichier
 ```
